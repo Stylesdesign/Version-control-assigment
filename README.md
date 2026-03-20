@@ -27,9 +27,8 @@ Git rebase is used to move or combine commits to a new base commit. It helps kee
 
 **Command:**
 
-```bash
 git rebase branch-name
-```
+
 
 ## Git Cherry-Pick (Simple Explanation)
 
@@ -37,6 +36,4 @@ Git cherry-pick allows you to take a specific commit from one branch and apply i
 
 **Command:**
 
-```bash
 git cherry-pick commit-hash
-```
