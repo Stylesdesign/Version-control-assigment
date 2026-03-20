@@ -28,3 +28,10 @@ Git rebase is used to move or combine commits to a new base commit. It helps kee
 **Command:**
 ```bash
 git rebase branch-name
+
+
+## Difference Between Git Fetch and Git Pull
+
+- Git Fetch downloads changes from a remote repository but does not merge them into your current branch.
+- Git Pull downloads changes and automatically merges them into your current branch.
+
