@@ -26,28 +26,17 @@ Version control is a system that help developers track changes made to code over
 Git rebase is used to move or combine commits to a new base commit. It helps keep the project history clean.
 
 **Command:**
+
 ```bash
 git rebase branch-name
-
-
-## Difference Between Git Fetch and Git Pull
-
-- Git Fetch downloads changes from a remote repository but does not merge them into your current branch.
-- Git Pull downloads changes and automatically merges them into your current branch.
-
-## Git Rebase (Simple Explanation)
-
-Git rebase is used to move or combine commits to a new base commit. It helps keep the project history clean.
-
-**Command:**
-```bash
-git rebase branch-name
-
+```
 
 ## Git Cherry-Pick (Simple Explanation)
 
 Git cherry-pick allows you to take a specific commit from one branch and apply it to another branch.
 
 **Command:**
+
 ```bash
 git cherry-pick commit-hash
+```
